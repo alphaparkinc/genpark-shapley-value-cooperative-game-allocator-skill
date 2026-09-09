@@ -1,0 +1,15 @@
+{
+  "name": "genpark-shapley-value-cooperative-game-allocator-skill",
+  "version": "1.0.0",
+  "description": "Cooperative game theory Shapley value fair profit/cost allocator.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "shapley-value",
+    "cooperative-game-theory",
+    "fair-allocation",
+    "coalitions",
+    "agentic-ai"
+  ]
+}
